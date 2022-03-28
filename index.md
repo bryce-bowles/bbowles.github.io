@@ -331,5 +331,6 @@ My personal research ambitions outside of my direct experience and project work 
 
 
 Outside of Data Science, I love to travel when I have the time and money!
+<div align="center"><img src="https://user-images.githubusercontent.com/65502025/160311601-35879023-fb4e-4696-bbfa-a7538332d629.jpg" width="90%" style="border-radius:10px; display:block;"></div>
 ![Profile_Pic](https://user-images.githubusercontent.com/65502025/160311601-35879023-fb4e-4696-bbfa-a7538332d629.jpg)
 <div align="center"><img src="https://tchlux.github.io/media/blacksburg-sunset-with-bird.jpeg" width="90%" style="border-radius:10px; display:block;"></div>
