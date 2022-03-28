@@ -1,1 +1,37 @@
 theme: jekyll-theme-minimal
+
+title: Bryce E. Bowles
+author: Bryce E. Bowles
+# email: bowlesb94@gmail.com
+description: >
+  Aspiring Data Scientist / Machine Learning Engineer. Captivated in descriptive, predictive and prescriptive analyses with data driven decision making.
+theme: minima
+
+social:
+  picture: "https://avatars1.githubusercontent.com/u/7769932?s=460&v=4"
+  twitter: "https://twitter.com/tchlux"
+  github: "https://github.com/tchlux"
+  linkedin: "https://www.linkedin.com/in/thomas-ch-lux"
+  gscholar: "https://scholar.google.com/citations?user=wamfO3sAAAAJ&hl=en"
+  stoverflow: "https://stackoverflow.com/users/6132097/thomas-lux"
+  reddit: "https://www.reddit.com/user/tchlux/?sort=top"
+  # doge: "https://tchlux.github.io/futures/doge.html"
+# - facebook: thomas.ch.lux
+
+blog_title: "<img src='/research/tlux.svg' height='50mm' style='margin: 0px 0px 5px 30px;'>"
+
+blog_links:
+  # - title: "about me"
+  #   url: "https://tchlux.github.io"
+
+header_links:
+  - title: "Research Blog"
+    url: "https://tchlux.github.io/research"
+  - title: "Publications"
+    url: "#publications"
+  - title: "Projects"
+    url: "#projects"
+  - title: "Education"
+    url: "#education"
+  - title: "Personal"
+    url: "#personal"
